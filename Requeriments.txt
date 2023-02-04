@@ -1,0 +1,6 @@
+this project should has: 
+    1. login and create an account 
+    2. see all days per month
+    3. agregar una descripción por día
+    4. calificar el día con un color
+    5. agregar una imagen
